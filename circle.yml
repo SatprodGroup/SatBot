@@ -1,0 +1,6 @@
+machine:
+  node:
+    version: 0.10.38
+test:
+  override:
+    - echo "no test for Satbot! He doesn't deserve them!"
